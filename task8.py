@@ -13,6 +13,6 @@ print(numbers[-1])
 print(numbers[2:5])
 
 numbers.remove('Python')
-print(numbers)
 print(len(numbers))
+print(numbers)
 
