@@ -1,18 +1,18 @@
-phones = [3, 5, 7, 9, 10.5]
-print(phones)
+numbers = [3, 5, 7, 9, 10.5]
+print(numbers)
 
-phones.append('Python')
-print(phones)
+numbers.append('Python')
+print(numbers)
 
-print(len(phones))
+print(len(numbers))
 
-print(phones[0])
+print(numbers[0])
 
-print(phones[-1])
+print(numbers[-1])
 
-print(phones[2:5])
+print(numbers[2:5])
 
-phones.remove('Python')
-print(phones)
-print(len(phones))
+numbers.remove('Python')
+print(numbers)
+print(len(numbers))
 
